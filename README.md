@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/2235-add-two-integers) |
 ## Array
 |  |
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
