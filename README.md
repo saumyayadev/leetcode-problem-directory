@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/0014-longest-common-prefix) |
 | [1470-shuffle-the-array](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/1920-build-array-from-permutation) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/1480-running-sum-of-1d-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
