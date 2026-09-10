@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/2469-convert-the-temperature) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/1929-concatenation-of-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/saumyayadev/leetcode-problem-directory/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
